@@ -1,7 +1,7 @@
 ## Teste para FrontEnd Coobrastur Turismo
 
-Tecnologia: React
-Desenvolvedora: Mariana Ruaro Vigano
+- Tecnologia: React
+- Desenvolvedora: Mariana Ruaro Vigano
 
 ### `npm install`
 
