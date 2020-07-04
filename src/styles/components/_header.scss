@@ -1,0 +1,19 @@
+.header {
+	margin-bottom: $spacer * 0.5;
+	border-bottom: $border-width solid $border-color;
+	position: fixed;
+	z-index: 100;
+	width: 100%;
+	background-color: theme-color('primary');
+	img {
+		height: 70px;
+		@include media-breakpoint-down(sm) {
+			height: 50px;
+		}
+	}
+	.nav-right {
+		span {
+			color: #fff;
+		}
+	}
+}
